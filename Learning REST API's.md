@@ -18,7 +18,7 @@ _**Get**_ requests may contain the following
 * Cache Control
 
 Example of _GET_ request in JSON format 
-![](C:\Users\lavan\Pictures\Screenshots)
+![](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/master/Screenshot%20(37).png)
 
 _**Response**_ usually contains 
 * Required : True/false
@@ -33,19 +33,25 @@ Same URI for GET and POST
 
 * POST: Create new resource.
 
-![Example of _Post_ request](C:\Users\lavan\Pictures\Screenshots)
+![Example of _Post_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/master/Screenshot%20(42).png)
+
+![Success and Failure](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(38).png)
+
+![Code Sample for _Post_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/master/Screenshot%20(42).png)
 
 * PUT: Contains ID and content._(Updating an existing resource and may allow it to create a new resource.)_
 
-![Example of _Put_ request](C:\Users\lavan\Pictures\Screenshots)
+![Example of _Put_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(39).png)
+
+![Code sample for _Put_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/master/Screenshot%20(44).png)
 
 * PATCH: Modify the existing resource using ID. 
 
-![Example of _Modify_ request](C:\Users\lavan\Pictures\Screenshots)
+![Example of _Modify_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(40).png)
 
 * DELETE: Deleting data based on  ID
 
-![Example of _Delete_ request](C:\Users\lavan\Pictures\Screenshots)
+![Example of _Delete_ request](https://github.com/LakshmiLavanyaKasturi/Certifications/blob/028f5cada13da195599a7edb15d30b3099536e63/Screenshot%20(41).png)
 
 * OPTIONS: Creates description of the resource. 
 
